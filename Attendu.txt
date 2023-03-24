@@ -1,0 +1,17 @@
+
+    La présentation de l’outil de veille à destination de Soufiane, au format PowerPoint ou équivalent, 15 slides maximum.
+	
+    Les spécifications techniques de l’outil “Menu Maker by Qwenta” au format traitement de texte, 15 pages maximum. 
+	
+    La présentation de la planification contenant le lien vers l’outil de gestion de projet choisi et le tableau Kanban réalisé au format PowerPoint ou équivalent, 15 slides maximum.
+	
+    La présentation de la solution technique à destination de John au format PowerPoint ou équivalent, 20 slides maximum.
+
+Pour faciliter votre passage devant le jury, déposez sur la plateforme, dans un dossier ZIP nommé “Titre_du_projet_nom_prénom”, tous les livrables du projet, exportés au format PDF, comme suit : Nom_Prénom_n° du livrable_nom du livrable__date de démarrage du projet. Cela donnera :  
+
+    Nom_Prénom_1_veille_mmaaaa ;
+    Nom_Prénom_2_spécifications techniques_mmaaaa ;
+    Nom_Prénom_3_kanban_mmaaaa ;
+    Nom_Prénom_4_solution technique_mmaaaa.
+
+Par exemple, le premier livrable peut être nommé comme suit : Dupont_Jean_1_veille_012022
