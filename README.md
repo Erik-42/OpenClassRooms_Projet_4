@@ -16,9 +16,9 @@ http://www.pearltrees.com/erik42
 
 Outil de gestion
 Jira de Atlassian
-atlassian.com
+http://atlassian.com
 
 Lien vers le Kanban
 https://erik-42.atlassian.net/jira/software/projects/MMBQ/boards/1
 
-Formation dev web Eric Breteau
+Formation OpenClassRoom developpeur web - Eric Breteau
